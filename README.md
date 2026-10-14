@@ -1,1 +1,1 @@
-# Reverse-Engineering-
+I just learned about Reverse engineering. it's quit fun . like first you open up a worked project or app to see how it's built and then reunite it .  it's quit thriller# Reverse-Engineering-
